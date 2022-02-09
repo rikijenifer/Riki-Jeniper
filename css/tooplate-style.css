@@ -30,9 +30,9 @@ ul {
   margin: 0;
   padding: 0;
 }
-/* ul li {
+ul li {
   list-style: none;
-} */
+}
 
 a {
   font-weight: normal;
@@ -511,6 +511,7 @@ b, strong {
 
   .animated-item {
     font-size: 28px;
+    width: 100px;
   }
 
   .navbar-collapse {
